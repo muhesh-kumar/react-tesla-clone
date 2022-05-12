@@ -63,9 +63,6 @@ const Header = () => {
         <li>
           <a href="#">Charging</a>
         </li>
-        <li>
-          <a href="#">Charging</a>
-        </li>
       </BurgerNav>
     </Container>
   );
